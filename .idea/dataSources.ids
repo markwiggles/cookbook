@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails cookbook: development" uuid="d7c407b3-e183-4878-9cc2-5fc35bda1526">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails cookbook: test" uuid="e4c0d69c-9063-4980-a438-9930de08e5eb">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails cookbook: production" uuid="bafc7d04-f66e-4147-9ed3-ca32ca1fbd2f">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsAjaxTest: development" uuid="0a43eb2d-1650-48a8-a203-a244c471278b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsAjaxTest: test" uuid="544c4542-32bb-4208-b131-9010299f2944">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsAjaxTest: production" uuid="c718ae3b-6ed5-48d6-b9a9-8183e76f24c3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsLyndaProject: development" uuid="9b47754c-ef73-4330-8019-d0be3223c29e">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsLyndaProject: production" uuid="4f72cf8e-09b3-41d3-9197-dc5cb1cc2e1c">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsTesting: development" uuid="11644671-677b-4f6a-b4e7-472ebba51746">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsTesting: test" uuid="d2ff2d4a-fa99-4f0c-b0dc-8fc7543b31a4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsTesting: production" uuid="c55ac030-b734-4053-b74d-5a790e27c0d7">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsFunGames: development" uuid="ddddca4c-d2f4-4814-96ac-10076d916be1">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsFunGames: test" uuid="f37cfd9c-ced9-4397-8b26-886cb664c591">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails RailsFunGames: production" uuid="62abdf43-f632-4ccd-a12f-412116b05eb4">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

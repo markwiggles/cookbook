@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RailsAjaxTest/.idea/RailsAjaxTest.iml" filepath="$PROJECT_DIR$/../RailsAjaxTest/.idea/RailsAjaxTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RailsFunGames/.idea/RailsFunGames.iml" filepath="$PROJECT_DIR$/../RailsFunGames/.idea/RailsFunGames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RailsLyndaProject/.idea/RailsLyndaProject.iml" filepath="$PROJECT_DIR$/../RailsLyndaProject/.idea/RailsLyndaProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RailsTestProject/.idea/RailsTestProject.iml" filepath="$PROJECT_DIR$/../RailsTestProject/.idea/RailsTestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RailsTesting/.idea/RailsTesting.iml" filepath="$PROJECT_DIR$/../RailsTesting/.idea/RailsTesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cookbook.iml" filepath="$PROJECT_DIR$/.idea/cookbook.iml" />
+    </modules>
+  </component>
+</project>
+

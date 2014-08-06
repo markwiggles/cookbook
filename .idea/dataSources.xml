@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="778312515">
+    <data-source source="LOCAL" name="Rails cookbook: development" uuid="d7c407b3-e183-4878-9cc2-5fc35bda1526">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/cookbook</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df88dfeedfe8dff5dff8dfe5dfe5dffedff5dffadfebdff9dff9df88dff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails cookbook: test" uuid="e4c0d69c-9063-4980-a438-9930de08e5eb">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/cookbook</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df88dfeedfe8dff5dff8dfe5dfe5dffedff5dffadfebdff9dff9df88dff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails cookbook: production" uuid="bafc7d04-f66e-4147-9ed3-ca32ca1fbd2f">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/cookbook</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df88dfeedfe8dff5dff8dfe5dfe5dffedff5dffadfebdff9dff9df88dff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsAjaxTest: development" uuid="0a43eb2d-1650-48a8-a203-a244c471278b">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/ajax_test</jdbc-url>
+      <user-name>markw</user-name>
+      <user-password>dfc8dfcfdfcbdfc9dfc2dfc8dfdfdfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsAjaxTest: test" uuid="544c4542-32bb-4208-b131-9010299f2944">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/RailsAjaxTest_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsAjaxTest: production" uuid="c718ae3b-6ed5-48d6-b9a9-8183e76f24c3">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/RailsAjaxTest_production</jdbc-url>
+      <user-name>RailsAjaxTest</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfebdfe3dfe6dff9dfebdfe0dfebdff2dffedfefdff9dffedff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsLyndaProject: development" uuid="9b47754c-ef73-4330-8019-d0be3223c29e">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/simple_cms_development</jdbc-url>
+      <user-name>markw</user-name>
+      <user-password>dfc8dfcfdfcbdfc9dfc2dfc8dfdfdfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsLyndaProject: production" uuid="4f72cf8e-09b3-41d3-9197-dc5cb1cc2e1c">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/TestRailsProject_production</jdbc-url>
+      <user-name>RailsLyndaProject</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddffedfefdff9dffedff8dfebdfe3dfe6dff9dffadff8dfe5dfe0dfefdfe9dffedff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsTesting: development" uuid="11644671-677b-4f6a-b4e7-472ebba51746">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/rails_testing</jdbc-url>
+      <user-name>markw</user-name>
+      <user-password>dfc8dfcfdfcbdfc9dfc2dfc8dfdfdfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsTesting: test" uuid="d2ff2d4a-fa99-4f0c-b0dc-8fc7543b31a4">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/RailsTesting_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsTesting: production" uuid="c55ac030-b734-4053-b74d-5a790e27c0d7">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/RailsTesting_production</jdbc-url>
+      <user-name>RailsTesting</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfebdfe3dfe6dff9dffedfefdff9dffedfe3dfe4dfeddff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsFunGames: development" uuid="ddddca4c-d2f4-4814-96ac-10076d916be1">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/fun_games</jdbc-url>
+      <user-name>markw</user-name>
+      <user-password>dfc8dfcfdfcbdfc9dfc2dfc8dfdfdfc7</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsFunGames: test" uuid="f37cfd9c-ced9-4397-8b26-886cb664c591">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/RailsFunGames_test</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfdadfcbdfd9dfd9dfdddfc5dfd8dfce</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RailsFunGames: production" uuid="62abdf43-f632-4ccd-a12f-412116b05eb4">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/RailsFunGames_production</jdbc-url>
+      <user-name>RailsFunGames</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddff8dfebdfe3dfe6dff9dfecdfffdfe4dfeddfebdfe7dfefdff9dff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

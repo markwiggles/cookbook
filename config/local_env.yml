@@ -1,0 +1,5 @@
+
+# this file contains any passwords or keys
+# the file is included in .gitignore, so not held in repository
+
+DB_ROOT_PASS: 'password'
